@@ -1,6 +1,6 @@
 # **Competitive Shooter Database**
 
-This is a MySQL Database project simulating the database of a user profile system.
+This is a MySQL Database project simulating the database of a user profile system in a competitive shooter.
 
 ## Purpose
 
